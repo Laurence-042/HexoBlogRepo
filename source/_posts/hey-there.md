@@ -3,9 +3,10 @@ title: hey there
 date: 2018-06-28 00:01:44
 catagories: blog
 tags: [hey!]
+preview: http://e-shuushuu.net/images/2016-11-21-873203.jpeg
 ---
-# Not too hard?
-参考[@willxue_top](https://blog.csdn.net/willxue123)的教程完成。
+### Not too hard?
+本博客第一篇测试用文章，内含一些这个鶸初用Ubuntu时遇到的一堆问题中的一部分常见问题 ~~（顺便测试preview功能是否可以离线使用）~~ 测试完毕，没法用······
 
 <!--more-->
 # Linux-Ubuntu-using
