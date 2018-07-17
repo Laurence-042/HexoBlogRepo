@@ -3,10 +3,16 @@ title: hey there
 date: 2018-06-28 00:01:44
 catagories: blog
 tags: [hey!]
-preview: http://e-shuushuu.net/images/2016-11-21-873203.jpeg
+preview: https://raw.githubusercontent.com/Laurence-042/Resources/master/jpg/anim/yande.re%20375289%20rem_(re_zero)%20teffish.jpg
 ---
 ### Not too hard?
-本博客第一篇测试用文章，内含一些这个鶸初用Ubuntu时遇到的一堆问题中的一部分常见问题 ~~（顺便测试preview功能是否可以离线使用）~~ 测试完毕，没法用······
+本博客第一篇测试用文章，内含一些这个鶸初用Ubuntu时遇到的一堆问题中的一部分常见问题  
+~~（顺便测试preview功能是否可以离线使用）~~  
+测试完毕，没法用······  
+~~测试能不能用GitHub的repo作为图片源~~  
+~~测试完毕，PC显示没问题，但Android还是没法用······~~  
+~~等等！我发现了问题······Android使用“中转站”之后就能显示图片了···~~
+···确定问题所在了，是我们校园网的锅，我的手机用校园网上GitHub的话只能接收到基础html页面，用蜂窝网络（流量）之后就能正常显示图片了。然而为啥直接用校园网会无法加载但中转后就行了呢，这真是个微妙的问题······  
 
 <!--more-->
 # Linux-Ubuntu-using

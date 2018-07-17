@@ -86,6 +86,10 @@ deploy:
   repository: git@github.com:Laurence-042/Laurence-042.github.io.git
   branch: master
 
+#站点地图-Google
+sitemap:
+path: sitemap.xml
+
 #theme
 jsonContent:
   dateFormat: MM-DD
