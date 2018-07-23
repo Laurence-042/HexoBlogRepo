@@ -4,6 +4,7 @@ date: 2018-06-28 00:01:44
 catagories: blog
 tags: [hey!]
 preview: https://raw.githubusercontent.com/Laurence-042/Resources/master/jpg/anim/yande.re%20375289%20rem_(re_zero)%20teffish.jpg
+top: true
 ---
 ### Not too hard?
 本博客第一篇测试用文章，内含一些这个鶸初用Ubuntu时遇到的一堆问题中的一部分常见问题  
