@@ -28,7 +28,7 @@ cd \Node_js_blog
 set /p name=请输入文章名字：
 echo 输入的是: %name%
 echo 请等待······
-@echo A|call hexo new "%name%"
+call hexo new "%name%"
 echo 请等待······
 start /d "D:\Microsoft VS Code"   Code.exe  "F:\Node_js_blog\source\_posts\%name%.md"
 ```
